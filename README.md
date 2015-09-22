@@ -1,6 +1,6 @@
 # jleesnn.github.io
 
-Copyright @ My Name
+Copyright @ Joseph Lee
 
 ## Education
 B.S. Biomedical Engineer
