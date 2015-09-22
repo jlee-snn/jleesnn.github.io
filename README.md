@@ -2,6 +2,10 @@
 
 Copyright @ My Name
 
+## Education
+
+#Background 
+
 ## Description
 
 Personal Github page
